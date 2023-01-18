@@ -1,0 +1,9 @@
+li{
+    display: inline;
+    margin-left: 100px;
+    color: cornflowerblue;
+    font-size: larger;
+}
+div.fixed{
+    position: fixed;
+}
